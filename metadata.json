@@ -1,0 +1,7 @@
+{
+  "name": "Smart Routine & Study Planner",
+  "description": "A premium productivity app for managing daily life, study schedules, and task tracking with intelligent automated generation.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
